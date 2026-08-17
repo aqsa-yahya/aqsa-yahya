@@ -76,7 +76,11 @@ To become a skilled Frontend Developer specializing in JavaScript and React.js, 
 
 ## 📫 Connect With Me
 
+## 📫 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqsa-muhammad-yahya-738468418)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61593378210787)
 
 ---
 
