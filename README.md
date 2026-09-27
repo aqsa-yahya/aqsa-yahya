@@ -5,7 +5,7 @@
 🌱 Currently Building with React.js & Next.js (AI API Integrations)  
 📍 Lahore, Pakistan
 
-I’m a Software Engineering student passionate about building clean, responsive, and high-performance user interfaces. I bridge the gap between design and development by custom prototyping applications before turning them into production-ready code.
+I'm a Software Engineering student passionate about building clean, responsive, and high-performance user interfaces. I bridge the gap between design and development by custom prototyping applications before turning them into production-ready code.
 
 I enjoy solving complex web problems, integrating generative AI workflows, and continuously pushing my software engineering limits through practical builds.
 
@@ -13,12 +13,11 @@ I enjoy solving complex web problems, integrating generative AI workflows, and c
 
 ### Frontend Development
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-![Next.js](https://shields.io)
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Additional Knowledge
 
@@ -42,7 +41,7 @@ A dynamic dress-customization application built from scratch to streamline custo
 - One-click downloadable tailor cards capturing exact fabric parameters and structural metrics.
 - Gained high community engagement on LinkedIn with active tech engineering discussions.
 
-🔗 [View Project](https://netlify.app)
+🔗 [View Project](https://lnkd.in/dzPCEB7s)
 
 ### Café Aqsa — Multi-Page E-Commerce UI
 
@@ -53,7 +52,7 @@ An online coffee shop concept structured fully across a scalable multi-page fram
 - Native localStorage state configurations tracking custom user account systems.
 - 10+ custom linked routes covering brewing guides, order tracking, and blog metrics with zero dependency requirements.
 
-🔗 [View Project Code](https://github.com)
+🔗 [View Project Code](https://lnkd.in/dgv3EDZP)
 
 ### Kanban Task Manager
 
@@ -64,7 +63,7 @@ A drag-and-drop task management tool built with core vanilla engineering paradig
 - Comprehensive local storage tracking to guarantee continuous state persistence on browser reloads.
 - Full project execution mapped directly through Jira and Confluence boards using Agile principles.
 
-🔗 [View Project](https://github.com/aqsa-yahya/kanban-task-manager)
+🔗 [View Project](https://aqsa-yahya.github.io/kanban-task-manager/)
 
 ---
 
@@ -73,7 +72,7 @@ A drag-and-drop task management tool built with core vanilla engineering paradig
 - Server-Side Rendering (SSR) & Next.js Architecture
 - Building Enterprise AI Chatbots & Stream APIs on Coursera
 - TypeScript Core Paradigms
-- Advance React Custom Hooks & Optimization
+- Advanced React Custom Hooks & Optimization
 
 ---
 
